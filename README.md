@@ -29,6 +29,19 @@ I’ve contributed to products serving **65k+ users**, built **commission & rewa
 
 ---
 
+## 🎓 Teaching & Mentorship  
+
+I have also served as a **MERN Stack Instructor at NED University**, where I:  
+
+- Trained and mentored **100+ students** in full-stack development  
+- Taught clean architecture, scalable system design, and performance optimization  
+- Guided students through **real-world, end-to-end projects**  
+- Helped bridge the gap between academic learning and industry practices  
+
+I’m passionate about knowledge sharing, mentoring developers, and building engineering cultures focused on quality and scalability.
+
+---
+
 ## 🛠 Tech Stack  
 
 **Backend:** Node.js (Express), Sequelize, TypeORM, Knex.js  
@@ -60,5 +73,12 @@ Warehouse booking, inventory sync, and customer order pipelines.
 
 ## 📊 GitHub Stats  
 
-![Shaheryar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaheryar-)
- 
+![Shaheryar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaheryar-ahmed-ten&show_icons=true&theme=default)  
+
+---
+
+## 🏆 Certifications  
+
+- [SQL for Data Science](https://www.udemy.com/certificate/UC-21e754a5-6f1d-40ce-85e9-0b13b296bb5f/)  
+- [Angular Framework](https://www.udemy.com/certificate/UC-7f637db6-e4ac-4e4f-b01e-cc51cc2a9e19/)  
+- [Advanced Node.js](https://drive.google.com/file/d/1umJrb60QLwjuUEU8JkZAjLci7bLRB3x8/)
