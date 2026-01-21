@@ -48,37 +48,4 @@ I’m passionate about knowledge sharing, mentoring developers, and building eng
 **Frontend:** Angular, React.js, Next.js  
 **Databases:** PostgreSQL, MS SQL Server, MySQL, MongoDB  
 **Cloud & DevOps:** AWS (EC2, RDS, S3, Lambda), Docker, Jenkins  
-**Architecture:** Microservices, Serverless, Event-Driven Systems  
-
----
-
-## 📌 Highlighted Projects  
-
-🔹 **Comp360 – Commission & Reward System**  
-Modular commission platform built with Node.js and scalable backend services.
-
-🔹 **VetTimes – SEO-Optimized CMS**  
-Next.js CMS with SSR, caching, and SEO optimization (Top 3 rankings for 5+ keywords).
-
-🔹 **MyBook – Coupon-Based Offers App**  
-Backend APIs supporting 65k+ users with complex promotions and merchant workflows.
-
-🔹 **Dastgyr – Warehousing & Inventory System**  
-Real-time SKU, picking, sorting, and retailer fulfillment workflows.
-
-🔹 **Oware – On-Demand Warehouse Platform**  
-Warehouse booking, inventory sync, and customer order pipelines.
-
----
-
-## 📊 GitHub Stats  
-
-![Shaheryar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaheryar-ahmed-ten&show_icons=true&theme=default)  
-
----
-
-## 🏆 Certifications  
-
-- [SQL for Data Science](https://www.udemy.com/certificate/UC-21e754a5-6f1d-40ce-85e9-0b13b296bb5f/)  
-- [Angular Framework](https://www.udemy.com/certificate/UC-7f637db6-e4ac-4e4f-b01e-cc51cc2a9e19/)  
-- [Advanced Node.js](https://drive.google.com/file/d/1umJrb60QLwjuUEU8JkZAjLci7bLRB3x8/)
+**Architecture:** Microservi
